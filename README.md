@@ -1,5 +1,5 @@
 <p align="center">
-<img src="file_000000007278720b9aa241ecc457f9cb.png">
+<img src="file_0000000035e8720b99f50ab4e934b23f.png">
 </p>
 
 <h1 align="center">Nolqu</h1>
