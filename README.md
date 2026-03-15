@@ -1,3 +1,7 @@
+<p align="center">
+<img src="file_000000007278720b9aa241ecc457f9cb.png">
+</p>
+
 <h1 align="center">Nolqu</h1>
 
 <p align="center">
@@ -16,7 +20,7 @@ The goal of Nolqu is to build a simple, fast, and embeddable programming languag
 
 ## Nolqu Ecosystem
 
-The Nolqu ecosystem includes several core components:
+The Nolqu ecosystem is planned to include several components.
 
 ### Core
 - **NolquLang** — The programming language
